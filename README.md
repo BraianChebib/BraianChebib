@@ -17,5 +17,5 @@ Además, disfruto colaborar con otros desarrolladores en proyectos de código ab
  
  
 🔗 Links <br/><br/>
-Puedes contactarme en: [Correo electrónico](lucianochebib@gmail.com)<br/>
+Puedes contactarme en: [Correo electrónico](mailto:lucianochebib@gmail.com)<br/>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/braian-chebib-682a961b5/)
