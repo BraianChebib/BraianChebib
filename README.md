@@ -1,4 +1,4 @@
-![(https://th.bing.com/th/id/R.82454ef2d09f88aaa84a439a8a8bf724?rik=3zGRQTRqC8hvnA&pid=ImgRaw&r=0)]
+[![OIP-4.jpg](https://i.postimg.cc/XNyL6WXG/OIP-4.jpg)](https://postimg.cc/Lh2Ljrt2)
 
 
 ¡Hola y bienvenidos a mi perfil de GitHub!👋
