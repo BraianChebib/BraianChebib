@@ -12,10 +12,10 @@ Además, disfruto colaborar con otros desarrolladores en proyectos de código ab
 ¡Gracias por visitar mi perfil de GitHub!
 
 
-🛠 Skills 
+🛠 Skills <br>
  HTML, CSS, JavaScript, React, Node.js, Redux, Redux Toolkit, Express, Sequelize, MySQL, MySQL Workbench, PostgreSQL, Bootstrap, Chakra-UI.
  
  
-🔗 Links 
-Puedes contactarme en: [Correo electrónico](lucianochebib@gmail.com)
+🔗 Links <br>
+Puedes contactarme en: [Correo electrónico](lucianochebib@gmail.com)<br>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/braian-chebib-682a961b5/)
