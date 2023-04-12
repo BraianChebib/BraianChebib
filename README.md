@@ -10,3 +10,11 @@ En mi perfil de GitHub encontrarás una variedad de proyectos en los que he trab
 Además, disfruto colaborar con otros desarrolladores en proyectos de código abierto y compartir mi conocimiento con la comunidad. Si tienes alguna pregunta o sugerencia sobre alguno de mis proyectos, no dudes en contactarme. Siempre estoy dispuesto a colaborar y ayudar en lo que sea necesario.
 
 ¡Gracias por visitar mi perfil de GitHub!
+
+
+🛠 Skills 
+ HTML, CSS, JavaScript, React, Node.js, Redux, Redux Toolkit, Express, Sequelize, MySQL, MySQL Workbench, PostgreSQL, Bootstrap, Chakra-UI.
+ 
+ 
+🔗 Links 
+ [LinkedIn](https://www.linkedin.com/in/braian-chebib-682a961b5/)
