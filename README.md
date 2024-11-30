@@ -1,4 +1,4 @@
-[![R.gif](https://i.postimg.cc/PxKgG8yj/R.gif)](https://postimg.cc/zbbtKv4t)
+![R.gif](https://i.postimg.cc/PxKgG8yj/R.gif)
 
 
 ¡Hola y bienvenidos a mi perfil de GitHub!👋
